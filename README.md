@@ -19,8 +19,8 @@ Estudante de desenvolvimento Front-End (Softex Pernambuco / Capgemini) e anális
 
 <div align="center">
   <a href="https://github.com/DiegoHigino">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiegoHigino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHigino&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DiegoHigino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHigino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ![snake gif](https://github.com/DiegoHigino/DiegoHigino/blob/output/github-contribution-grid-snake.svg)
