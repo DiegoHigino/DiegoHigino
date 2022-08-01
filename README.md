@@ -23,6 +23,7 @@ Estudante de desenvolvimento Front-End (Softex Pernambuco / Capgemini) e anális
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHigino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  ![snake gif](https://github.com/DiegoHigino/DiegoHigino/blob/output/github-contribution-grid-snake.svg)
 
 <h2>
 Sobre mim
@@ -37,3 +38,5 @@ Sobre mim
 
 </div>
 </div>
+  
+ 
