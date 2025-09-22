@@ -12,7 +12,7 @@
 </div>
 
 <h4>
-Estudante de desenvolvimento Front-End (Softex Pernambuco / Capgemini) e análise e desenvolvimento de sistemas (Estácio)
+Estudante de desenvolvimento Front-End (Softex Pernambuco / Fuctura Tecnologia)
 </h4>
 
 ## 
