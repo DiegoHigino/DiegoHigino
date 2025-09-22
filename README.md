@@ -30,7 +30,7 @@ Sobre mim
 </h2>
 
 🙌Há procura da minha transcição de carreira<br>
-🙂Sou de Recife, visse! Nascido e criado! Tenho 31 anos e sou pai do Pedro Augusto (Menino arretado de bom😇)<br>
+🙂Sou de Recife, visse! Nascido e criado! Tenho 34 anos e sou pai do Pedro Augusto (Menino arretado de bom😇)<br>
 📖Estou estudando atualmente todos as tecnologias para me tornar um Dev Front-End (HTML, CSS, JAVA, REACT)<br>
 
 
